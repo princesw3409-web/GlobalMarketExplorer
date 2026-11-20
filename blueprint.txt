@@ -1,0 +1,13 @@
+GlobalMarketExplorer
+│
+├── app.py
+├── data/
+│   └── market_data.csv
+├── assets/
+│   └── logo.png
+├── pages/
+│   ├── market_analysis.py
+│   ├── competitor_analysis.py
+│   ├── customer_analysis.py
+│   └── ai_insights.py
+└── requirements.txt
